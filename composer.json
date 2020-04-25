@@ -1,5 +1,5 @@
 {
-  "name": "drupal/varbase_media",
+  "name": "for023/ds_varbase_media",
   "description": "Manages type of media contents and entity browsers in the site.",
   "type": "drupal-module",
   "homepage": "https://www.drupal.org/project/varbase_media",
@@ -53,7 +53,7 @@
     "drupal/blazy": "~2.0",
     "drupal/slick": "~2.0",
     "drupal/slick_views": "~2.0",
-    "drupal/slick_media": "~2.0"
+    "drupal/slick_media": "3.x-dev"
   },
   "suggest": {
     "npm-asset/dropzone": "~4.0: Provides JavaScript library necessary for Dropzone",
